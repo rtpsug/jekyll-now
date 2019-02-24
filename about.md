@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The Research Triangle PowerShell Users Group is a community of IT administrators, engineers, managers, devops engineers, developers and anyone that has the interest to learn more about PowerShell and automation.
+A community of IT administrators, engineers, managers, devops engineers, developers and anyone that has the interest to learn more about PowerShell and automation.
 
 ### What we're about
 
