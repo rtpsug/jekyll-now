@@ -86,11 +86,10 @@ exclude:
   - README.md
   - CNAME
   - dockerinit.txt
-
+  
 collections:
   pssat:
     output: true
     permalink: /pssaturday/
     name: Research Triangle - PowerShell Saturday
     description: PowerShell Saurrdaue Hos
-
