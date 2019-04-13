@@ -8,7 +8,7 @@ Become a Sponsor
 
 ## DIAMOND – $2500 (LIMIT 1)
 - Day 1 – Presented by YOUR COMPANY
-- Your Logo on RTPUSG - PowerShell Saturday Website and promotional material*
+- Your Logo on RTPSUG - PowerShell Saturday Website and promotional material*
 - 4 Free Lunch Tickets
 - Multi-page flyer and/or DVD/SWAG (provided by sponsor) inserted in the event bag
 - 1 Screen on scrolling sponsor Screen
@@ -16,7 +16,7 @@ Become a Sponsor
 - 1 item allowed in general raffle and 1 item in your raffle (you collect names)
 
 ## GOLD – $1000
-- Your Logo on RTPUSG - PowerShell Saturday Website and promotional material*
+- Your Logo on RTPSUG - PowerShell Saturday Website and promotional material*
 - 2 Free Lunch Tickets
 - Multi-page flyer and/or DVD/SWAG (provided by sponsor) inserted in the event bag
 - 1 Screen on scrolling sponsor Screen
@@ -24,7 +24,7 @@ Become a Sponsor
 - 1 item allowed in general raffle and 1 item in your raffle (you collect names)
 
 ## SILVER – $500
-- Your Logo on RTPUSG - PowerShell Saturday Website and promotional material*
+- Your Logo on RTPSUG - PowerShell Saturday Website and promotional material*
 - 1 Free Lunch Ticket
 - One-page flyer and/or DVD/SWAG (provided by sponsor) inserted in the event bag
 - 1 Screen on Event Board
@@ -32,7 +32,7 @@ Become a Sponsor
 - 1 item allowed in general raffle and 1 item in your raffle (you collect names)
 
 ## BRONZE – $250
-- Your Logo on RTPUSG - PowerShell Saturday Website and promotional material
+- Your Logo on RTPSUG - PowerShell Saturday Website and promotional material
 - 1 Free Lunch Ticket
 - One-page flyer and/or DVD/SWAG (provided by sponsor) inserted in the event bag
 - 1 Screen on Event Board
@@ -40,7 +40,7 @@ Logo at the end of each session PowerPoint
 - 1 item allowed in general raffle
 
 ## PERSONAL – $50
-- Your Logo on RTPUSG - PowerShell Saturday Website and promotional material
+- Your Logo on RTPSUG - PowerShell Saturday Website and promotional material
 
 ## CUSTOM
 - If none of these options work for you we are happy to modify and come up with a personalized sponsorship plan (i.e. this lunch provided to you by YOUR COMPANY)
