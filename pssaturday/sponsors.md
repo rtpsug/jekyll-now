@@ -7,7 +7,7 @@ permalink: /pssaturday/sponsors
 Become a Sponsor
 
 ## DIAMOND – $2500 (LIMIT 1)
-- Day 1 – Presented by YOUR COMPANY
+- Presented by YOUR COMPANY
 - Your Logo on RTPSUG - PowerShell Saturday Website and promotional material*
 - 4 Free Lunch Tickets
 - Multi-page flyer and/or DVD/SWAG (provided by sponsor) inserted in the event bag
