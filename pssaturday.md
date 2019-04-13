@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pssat
 title: PS Saturday
 permalink: /pssaturday/
 ---
